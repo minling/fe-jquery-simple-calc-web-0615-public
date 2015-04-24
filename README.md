@@ -26,7 +26,7 @@ Students will work in groups to create a simple calculator using jQuery event li
     4. When the user clicks the operation buttons it should change the string that is being stored in the operation variable.
     5. When the user clicks the equals button, the calculator should update a result variable based on the operation choosen and the value of the two numbers. It should then report the result into the h2 with an id="result".
 
-See a live working example of the simple calculator [here](http://flatiron-school-curriculum.github.io/fe-jquery-simple-calc/)
+See a live working example of the simple calculator [here](http://learn-co-curriculum.github.io/fe-jquery-simple-calc/)
 
 ## Resources
 
@@ -36,4 +36,4 @@ See a live working example of the simple calculator [here](http://flatiron-schoo
  * [jQuery API - Selectors](http://api.jquery.com/category/selectors/)
  * [jQuery API - Events - Click](http://api.jquery.com/click/)
  * [jQuery API - Text](http://api.jquery.com/text/)
- * [Live Working Example](http://flatiron-school-curriculum.github.io/fe-jquery-simple-calc/)
+ * [Live Working Example](http://learn-co-curriculum.github.io/fe-jquery-simple-calc/)
