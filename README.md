@@ -1,10 +1,3 @@
----
-language: javascript, html, css
-tags: js, jquery, switch, if, else, conditional, statement, beginner
-type: lab, challenge
-resources: 7
----
-
 # Code Challenge - jQuery Simple Calculator
 
 Students will work in groups to create a simple calculator using jQuery event listeners and JavaScript if/else or switch statements.
